@@ -4,16 +4,12 @@ This repository contains datasets used in experiments described in the paper "A 
 
 ## frmt/
 
-This folder contains the **processed version of the FRMT dataset** used in the experiments.
+This folder contains the **processed versions of the Portuguese FRMT datasets** used in the experiments.
 
-The original FRMT datasets were split at the **document level** into *exemplar*, *dev*, and *test* splits. During dataset inspection prior to the experiments, several issues were identified:
-
-- Some sentences were **not properly segmented**.
-- For the purposes of this research, the **exemplar** and **dev** buckets were more useful when **combined for fine-tuning**.
-
+The original FRMT datasets are split into *exemplar*, *dev*, and *test* splits. During dataset inspection, prior to the experiments, several sentences were found to be not properly segmented and were therefore edited.
 After cleaning and restructuring the data:
 
-- **2847 sentences** were used in the **development set**, which served as fine-tuning data.
+- **2847 sentences** across the exemplar and dev splits were used in the **development set**, which served as fine-tuning data.
 - **2597 sentences** were kept in the **test set**, which was translated by all evaluated systems and used for computing evaluation metrics.
 
 The development data was used both **alone** and **combined with different subsets of the Tatoeba dataset**.
@@ -31,6 +27,8 @@ Several versions of this dataset exist, and Portuguese translations are typicall
 5. Two datasets of **50,000 sentences each** were created for the two variants.
 
 For the **EP dataset**, each sentence was **manually verified and adapted where necessary**.
+
+Besides the 50,000 (50K) Tatoeba datasets, smaller subsets were created to test how much data was really necessary to provide the best fine-tuning results. For the same effect, the FRMT dev data was also combined with several splits of the Tatoeba data to test if its 2847 sentences were enough to provide good results by itself and/or combined with the Tatoeba data.
 
 ## manual_eval_100.txt
 
