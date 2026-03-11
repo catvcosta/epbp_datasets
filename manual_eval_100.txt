@@ -1,0 +1,101 @@
+English	Portuguese	Author Prediction	Classifier Prediction
+I already spoke to Tom.	Já falei com Tom.	BR	BR
+I understand you well.	Eu a compreendo bem.	BR	BR
+When will your new novel come out?	Quando será publicada a sua nova novela?	BR	BR
+Let's rent a bike there.	Vamos alugar uma bicicleta ali.	PT	PT
+Have you ever eaten Turkish food?	Você já comeu comida turca?	BR	BR
+I don't think Tom has any experience.	Eu não acho que o Tom tenha alguma experiência.	BR	BR
+Tom wasn't sleeping on this bench. He was sleeping on that bench.	Tom não estava dormindo neste banco. Ele estava dormindo naquele banco.	BR	BR
+"Why should everyone get free money?" "Because yes."	"Por que todos deveriam ganhar dinheiro de graça?" "Porque sim!"	BR	BR
+Tom still has to do that.	Tom continua tendo que fazer isso.	BR	BR
+It was no bigger than a soccer ball.	Não era maior do que uma bola de futebol.	PT	BR
+I've never played golf, but I think I'll give it a shot.	Eu nunca joguei golfe, mas acho que vou tentar.	PT	PT
+Could I borrow a pen?	Posso pegar emprestada uma caneta?	BR	BR
+Where can I catch a bus?	Onde eu posso pegar o ônibus?	BR	BR
+Each of us should plant a tree.	Cada um de nós deveria plantar uma árvore.	BR	BR
+Have you ever heard him sing?	Você já o ouviu cantar?	BR	BR
+May I speak in French?	Eu poderia falar em francês?	BR	BR
+I got upset.	Eu fiquei chateado.	PT	BR
+Tom is waiting for my report.	Tom está esperando meu relatório.	BR	BR
+I think we have to make a decision.	Eu acho que devemos tomar uma decisão.	BR	BR
+It's easier than you think.	É mais fácil do que você pensa.	BR	BR
+I'd like to take this opportunity to thank you for all the trust you've placed in me.	Eu gostaria de aproveitar esta oportunidade para agradecer a vocês todos pela confiança depositada em mim.	BR	BR
+Tom is an extremely busy man.	O Tom é um homem extremamente ocupado.	PT	BR
+Sasha and Masha were born in St. Petersburg, but all they remember is Tomsk, where they grew up.	Sasha e Masha nasceram em São Petersburgo, mas tudo o que eles lembram é Tomsk, onde cresceram.	BR	BR
+Tom didn't want to go there alone.	O Tom não queria ir lá sozinho.	PT	PT
+We disturbed him.	Nós o atrapalhamos.	BR	BR
+They love me.	Eles me amam.	BR	BR
+Tom didn't ask for permission to leave.	Tom não pediu permissão para sair.	BR	BR
+It's in my pocket.	Está no meu bolso.	PT	PT
+Do you want tea or coffee?	Vocês querem chá ou café?	BR	BR
+They were adopted.	Eles foram adotados.	PT	BR
+Tom told me about Mary.	Tom me contou sobre Maria.	BR	BR
+I tried to stab Tom.	Eu tentei apunhalar Tom.	BR	BR
+Look! The cat's in the kitchen!	Veja! O gato está na cozinha!	BR	BR
+He gave up going abroad to study because of his father's sudden death.	Ele desistiu de ir para o exterior estudar por causa da morte repentina do pai.	BR	BR
+Nobody heard Tom's screams.	Ninguém ouviu os gritos de Tom.	BR	BR
+I just thought that you wouldn't want to go.	Eu apenas pensei que você não quisesse ir.	BR	BR
+That fox must have killed the hen.	A raposa deve ter matado a galinha.	PT	PT
+My father is home.	Meu pai está em casa.	BR	BR
+Take the next bus.	Pegue o próximo ônibus.	BR	BR
+That's how we'll win.	É assim que venceremos.	BR	PT
+I doubt if Tom will be frightened.	Duvido que Tom vá ficar com medo.	BR	BR
+All the benches are taken.	Todos os bancos estão ocupados.	BR	BR
+You don't believe Tom will win, do you?	Você não acredita que o Tom vai ganhar, não é?	BR	BR
+Is that table dirty?	Aquela mesa está suja?	PT	BR
+I will go to Tokyo tomorrow.	Irei a Tóquio amanhã.	BR	BR
+About half a century ago, the accordion was a very popular musical instrument around the world.	Há cerca de meio século atrás, o acordeão era um instrumento musical muito popular no mundo inteiro.	PT	BR
+You never say what you really think.	Você nunca diz o que você realmente pensa.	BR	BR
+Why is it important to eat healthy food?	Por que é importante ter uma alimentação saudável?	BR	BR
+This doll is a gift from my aunt.	Essa boneca é um presente da minha tia.	BR	PT
+I am very unhappy.	Sou muito infeliz.	PT	PT
+I didn't care what Tom did.	Eu não me importava com o que o Tom fazia.	BR	BR
+It's very late now.	É muito tarde agora.	BR	BR
+I have never written a play.	Nunca escrevi uma peça teatral.	BR	BR
+I'm ashamed of Japanese politics.	Estou envergonhado da política japonesa.	BR	BR
+The summer is over.	O verão acabou.	PT	BR
+This Irishman is capable of anything.	Este irlandês é capaz de tudo.	BR	BR
+Tom and Mary are going to say no.	O Tom e a Mary vão dizer que não.	PT	PT
+Tom grows tomatoes, cucumbers and lettuce.	O Tom planta tomates, pepinos e alface.	PT	BR
+Tom never learned how to drive.	Tom nunca aprendeu como dirigir.	BR	BR
+Record the serial number in the space provided below.	Anote o número de série no espaço fornecido abaixo.	BR	BR
+I hope you don't get lost.	Espero que você não se perca.	BR	BR
+They haven't come back yet.	Eles ainda não voltaram.	BR	BR
+Read on.	Leia adiante.	BR	BR
+I almost never do that here.	Eu quase nunca faço isso aqui.	BR	PT
+He lives near here.	Ele mora aqui perto.	PT	PT
+Who's your favorite poet?	Quem é o seu poeta favorito?	BR	BR
+Do you want to go swimming? The beach is not far.	Queres ir nadar? A praia não fica longe.	PT	PT
+Who won the game?	Quem ganhou o jogo?	BR	BR
+Did you take these pictures in Australia?	Os senhores tiraram essas fotos na Austrália?	BR	BR
+Someone has torn two pages out of this book.	Alguém arrancou duas páginas deste livro.	PT	BR
+The International Chess Day is celebrated on November 19, every year, because on that date José Raúl Capablanca was born, one of the greatest chess players of all time.	Comemora-se em 19 de novembro, todos os anos, o Dia Internacional do Enxadrismo, porque naquela data nasceu José Raúl Capablanca, um dos maiores enxadristas de todos os tempos.	BR	BR
+Tom sobered up a bit.	Tom ficou sóbrio um pouco.	BR	BR
+I am fascinated by palindromes.	Sou fascinado por palíndromos.	BR	BR
+You know as well as I do that we have no chance of surviving.	Você sabe tão bem como eu que não temos a mínima chance de sobrevivência.	BR	BR
+They saved us.	Eles nos salvaram.	BR	BR
+Tom looked at the painting on the wall.	Tom olhou para o quadro na parede.	BR	BR
+Tom lowered his gaze.	Tom abaixou o seu olhar.	BR	BR
+I suggested that we should go to the movies.	Eu sugeri que fôssemos ao cinema.	BR	BR
+I can't speak for my colleagues.	Eu não posso falar pelos meus colegas.	PT	BR
+It's been almost three weeks since I got back to Boston.	Já faz quase três semanas desde que voltei para Boston.	BR	BR
+Sometimes, in the still of the night, I imagine how much better the world could be if everyone learned Esperanto.	Às vezes, no silencio da noite, eu imagino o quão melhor o mundo poderia ser se todo mundo aprendesse esperanto.	BR	BR
+As for the child, he is eating the meat.	Quanto à criança, está comendo a carne.	BR	BR
+We'll try.	Nós tentaremos.	BR	BR
+I'm looking for my keys.	Estou procurando minhas chaves.	BR	BR
+Please hold the line a moment.	Aguarde um momento na linha, por favor.	BR	BR
+No work is possible without an order.	Não existindo ordem, nenhum trabalho é possível.	PT	BR
+You look European.	Você parece europeu.	BR	BR
+I'm working now.	Estou trabalhando agora.	BR	BR
+I cannot complain to the teacher. She's very hard.	Eu não posso reclamar com a professora. Ela é muito rígida.	BR	BR
+The creek was frozen.	O riacho estava congelado.	BR	BR
+I couldn't hear what was being said.	Eu não pude ouvir o que estava sendo falado.	BR	BR
+I don't think Tom will say yes.	Eu não acho que o Tom vá dizer sim.	BR	BR
+I wanted more time.	Queria mais tempo.	PT	BR
+Tom needs to be motivated.	O Tom precisa estar motivado.	BR	BR
+Tom won't be back.	Tom não voltará.	BR	BR
+These are fakes.	Estes são falsos.	PT	PT
+That gives me hope.	Isso me dá esperança.	BR	BR
+Tom isn't very likely to forget to do that.	Tom provavelmente não vai esquecer de fazer isso.	BR	BR
+We don't have a choice.	Nós não temos escolha.	PT	BR
+I am not.	Não sou.	BR	BR
