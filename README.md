@@ -27,7 +27,7 @@ Several versions of this dataset exist, and Portuguese translations are typicall
 
 For the **EP dataset**, each sentence was **manually verified and adapted where necessary**.
 
-From the 50K Tatoeba datasets, smaller subsets were created to test how much data was really necessary to provide the best fine-tuning results (10K and 2.8K subsets). For the same effect, the FRMT dev data was also combined with several splits of Tatoeba. All files with "tatoeba" in their name contain only Tatoeba data; the others are mixed with FRMT data.
+From the 50K Tatoeba datasets, smaller subsets were created to test how much data was really necessary to provide the best fine-tuning results (10K and 2.8K subsets). For the same effect, the FRMT dev data was also combined with several splits of Tatoeba. All files with "tatoeba" in their name contain only Tatoeba data; the others are mixed with FRMT data. In our paper, all reported results are from buckets with FRMT data included. Fine-tuning only with Tatoeba data produced lower results, as expected, but still performed better than the baseline.
 
 ## manual_eval_100.txt
 
